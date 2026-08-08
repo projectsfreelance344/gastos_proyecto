@@ -1,0 +1,17 @@
+reporte:
+  umbral_desviaciones: 2
+  semana_inicio: "2025-11-03"
+
+empleados:
+  - "Ana Torres"
+  - "Luis Ramírez"
+  - "Karla Díaz"
+  - "Jorge Nuñez"
+  - "Paulina Ruiz"
+  - "Diego Cortés"
+
+rangos_normales:
+  Transporte: [150, 900]
+  Hospedaje: [600, 2200]
+  Alimentos: [80, 450]
+  Representacion: [200, 1500]

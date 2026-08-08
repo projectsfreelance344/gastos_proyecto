@@ -1,0 +1,17 @@
+# Entornos virtuales
+venv/
+env/
+ENV/
+
+# Python cache y compilados
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entorno y credenciales
+.env
+
+# Archivos de sistema de Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
