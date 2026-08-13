@@ -1,5 +1,3 @@
-pandas
 matplotlib
 pyyaml
-python-dotenv
 rich
